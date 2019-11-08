@@ -26,8 +26,8 @@ print(
     colrprint.bright("im ultra shiny")..
     colrprint.dim("im dim and dark")..
     colrprint.underscore("can highlight something")..
-    colrprint.blink("hello! bye bye!")..
     colrprint.reverse("reverses the fg and bg color")..
-    colrprint.hidden("you cant even see this one!")
+    colrprint.hidden("you cant even see this one!")..
+    colrprint.strikethrough("NO")
 )
 ```
