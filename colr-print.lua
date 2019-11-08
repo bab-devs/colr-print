@@ -137,6 +137,7 @@ return {
     bgblack       =       bgblack,
 
     bright        =        bright,
+    italic        =        italic,
     bold          =        bright,
     dim           =           dim,
     underscore    =    underscore,
